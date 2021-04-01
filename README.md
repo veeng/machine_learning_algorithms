@@ -9,7 +9,7 @@ A copy-cat version of Scikit learn
 
 
 
-**Natural Language Processing **
+Natural Language Processing 
 
 Word processing: 
   - make use of NLTK package to clean sentences, remove stopword, stemming, lemanization
