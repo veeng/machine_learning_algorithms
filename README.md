@@ -19,6 +19,6 @@ Word processing:
 Image Processing
  
  - load and read pickle file
- - detect and crop the main objects off pictures
- - combine objects 
+ - detect and crop the main objects off each picture
+ - combine objects and make a feature rich image
  - write process data to a new pickle file
