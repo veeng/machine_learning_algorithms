@@ -15,3 +15,10 @@ Word processing:
   - make use of NLTK package to clean sentences, remove stopword, stemming, lemanization
   - read_file_df: take csv input and reutrn dataframe with cleaned data.
   - options to use feature extraction method either Bag of Word, n_gram and tf_idf.
+
+Image Processing
+ 
+ - load and read pickle file
+ - detect and crop the main objects off pictures
+ - combine objects 
+ - write process data to a new pickle file
