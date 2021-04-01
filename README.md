@@ -5,9 +5,10 @@ A copy-cat version of Scikit learn
 
 **2. LRG(Logistic regression)** -  a statistical model that in its basic form uses a logistic function to model a binary dependent variable, although many more complex extensions exist. In regression analysis, logistic regression (or logit regression) is estimating the parameters of a logistic model (a form of binary regression).
 
-
-
-
+3. Regression
+4. k-decision tree
+5. Naive Baye Classifer
+6. Bernoulli Naive Bayes
 
 Natural Language Processing 
 
